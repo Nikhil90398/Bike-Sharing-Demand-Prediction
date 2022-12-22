@@ -2,7 +2,7 @@
 ## This project will be explored over the previous data in order to predict the number of bikes that can be rented per hour by the company. So that customers can get the best experience without any delays. We will build different regression models and check which proves to be the best for the deployment.
 ML Project (Linear Regression )
 
-<img src="https://3aij0xs1tvo2l5now3runyvz-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/seoul_bike_ttareungyi_seoul_korea.jpg" width="800" height="500"/>
+<img src="![image](https://user-images.githubusercontent.com/109272234/209220436-fc0934c7-dfff-49c7-b880-eac0bf84764d.png)" width="800" height="500"/>
 
 This repository consists of Rental Bike demand prediction required at each hour of the day so that stable supply of rental bikes
  can be made possible. This is done by applying various Regression Machine Learning Algorithms.
