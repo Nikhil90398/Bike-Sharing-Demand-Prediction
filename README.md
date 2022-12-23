@@ -93,5 +93,20 @@ The Datetime module supplies classes for manipulating dates and times. While dat
 
 Statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
 
+****
+
+**Conclusions:**
+
+* Bike rental count is mostly correlated with the time of the day as it is peak at 8 am morning and 6 pm at evening.
+
+* We observed that bike rental count is high during working days than non-working day.
+
+* We see that people generally prefer to bike at moderate to high temperatures and when little windy.
+
+* It is observed that highest number bike rentals counts in Autumn & Summer  seasons & the lowest in winter and spring season. 
+
+* We observed that the highest number of  bike rentals on a clear day and the lowest on a snowy or rainy day and also  increasing humidity, the number of   bike rental counts decreases.
+
+
 
 
