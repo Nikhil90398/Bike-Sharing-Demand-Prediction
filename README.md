@@ -34,14 +34,14 @@ Dataset : [Dataset](https://drive.google.com/file/d/1czwsLBgwdoXxWs3HONBmmkYwXEG
     Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
     
 # Project Flowchart:
-   Loading data and Diagnosing the data
-   Data Filtering
-   EDA of Row data to understand inside correlations
-   Feature Engineering
-   Feature Selection : we are not use much beacuase of limited features in our data(only one feature elemenate using hitmap to escalate multicoliniarity issue)
-   Model Building
-   Model Training and Testing
-   Model Evalution & Hyper Perameter tuning
+     Loading data and Diagnosing the data
+     Data Filtering
+     EDA of Row data to understand inside correlations
+     Feature Engineering
+     Feature Selection : we are not use much beacuase of limited features in our data(only one feature elemenate using hitmap to escalate multicoliniarity issue)
+     Model Building
+     Model Training and Testing
+     Model Evalution & Hyper Perameter tuning
 
 # Steps involved doing this project:-
 
