@@ -2,7 +2,7 @@
 ## This project will be explored over the previous data in order to predict the number of bikes that can be rented per hour by the company. So that customers can get the best experience without any delays. We will build different regression models and check which proves to be the best for the deployment.
 
 
-<img src="https://sophiesu.net/wp-content/uploads/2021/01/Bike-Sharing-Demand.jpg" width="1200" height="500"/>
+<img src="https://cdn.dribbble.com/users/362212/screenshots/2831376/biker.gif" width="1200" height="500"/>
 
 This repository consists of Rental Bike demand prediction required at each hour of the day so that stable supply of rental bikes
  can be made possible. This is done by applying various Regression Machine Learning Algorithms.
@@ -15,8 +15,31 @@ This repository consists of Rental Bike demand prediction required at each hour 
 Project Presentation: [Slideshow](https://docs.google.com/presentation/d/1wgoTGzPzfdf3i2b7yNU7Mw8nXa3oNQJf/edit?usp=sharing&ouid=111999627899298680205&rtpof=true&sd=true)
 Dataset : [Dataset](https://drive.google.com/file/d/1czwsLBgwdoXxWs3HONBmmkYwXEGNkV4Q/view?usp=sharing)
 
-# Content:
-The data are downloaded from the South Korean website named SEOUL OPEN DATA PLAZA. One-year data are used in this research. The period of the dataset is 365 days (12 months) from December 2017 to November 2018. From the data, the count of the rental bikes rented at each hour is calculated.
+# Attribute Information: 
+    Date : year-month-day
+    Rented Bike count - Count of bikes rented at each hour
+    Hour - Hour of he day
+    Temperature-Temperature in Celsius
+    Humidity - %
+    Windspeed - m/s
+    Visibility - 10m
+    Dew point temperature - Celsius
+    Solar radiation - MJ/m2
+    Rainfall - mm
+    Snowfall - cm
+    Seasons - Winter, Spring, Summer, Autumn
+    Holiday - Holiday/No holiday
+    Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+    
+# Project Flowchart:
+   Loading data and Diagnosing the data
+   Data Filtering
+   EDA of Row data to understand inside correlations
+   Feature Engineering
+   Feature Selection : we are not use much beacuase of limited features in our data(only one feature elemenate using hitmap to escalate multicoliniarity issue)
+   Model Building
+   Model Training and Testing
+   Model Evalution & Hyper Perameter tuning
 
 # Steps involved doing this project:-
 
