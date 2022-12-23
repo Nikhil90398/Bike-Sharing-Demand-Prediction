@@ -70,6 +70,15 @@ We are importing the following libraries for their respective applications:
 
 **Statsmodels:-** Statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
 
+# Models Used
+          Linear Regression
+          Lasso Regression
+          Ridge Regression
+          Decision Tree
+          Random Forest
+          Gradient Boosting
+          XGBoost
+        
 ****
 
 **Conclusions:**
