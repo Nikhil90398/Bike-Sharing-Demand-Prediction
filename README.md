@@ -41,7 +41,7 @@ Dataset : [Dataset](https://drive.google.com/file/d/1czwsLBgwdoXxWs3HONBmmkYwXEG
      Feature Selection : we are not use much beacuase of limited features in our data(only one feature elemenate using heatmap to escalate multicoliniarity issue)
      Model Building
      Model Training and Testing
-     Model Evalution & Hyper Perameter tuning
+     Model Evalution & Hyper Parameter tuning
 
 # Steps involved doing this project:-
 
