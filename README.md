@@ -38,7 +38,7 @@ Dataset : [Dataset](https://drive.google.com/file/d/1czwsLBgwdoXxWs3HONBmmkYwXEG
      Data Filtering
      EDA of Row data to understand inside correlations
      Feature Engineering
-     Feature Selection : we are not use much beacuase of limited features in our data(only one feature elemenate using hitmap to escalate multicoliniarity issue)
+     Feature Selection : we are not use much beacuase of limited features in our data(only one feature elemenate using heatmap to escalate multicoliniarity issue)
      Model Building
      Model Training and Testing
      Model Evalution & Hyper Perameter tuning
